@@ -2,7 +2,7 @@
   "name": "my-first-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://IsaevNurislam.github.io/hw-8",
+  "homepage": "http://IsaevNurislam.github.io/hw-11",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
